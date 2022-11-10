@@ -1,0 +1,15 @@
+Admin- 
+An administrator logs into the site to do routine maintenance, when she receives an urgent help desk ticket to resolve an issue with the Shop Owner’s interface. She contacts the owner and discovers features including the ‘Choose your Style’ and “Choose your Hair color” tool are not functioning properly for users. 6 Consumers have voiced this issue to the shop owner. Derrick Is unable to set an appointment for a Retwist and Two strand Twists, Eddie is unable to schedule Two strand Twists, Adrianna cannot set an appointment for Knotless Braids, Nate cannot schedule an appointment for Plaits, Nicole cannot set an appointment for Stitch braids, and Megan cannot set an appointment for a Retwist and Ponytail.
+The Administrator logs into the Shop owner’s site to view the error themselves and notices that site gives and error when you attempt to use the check box. The next confirmation page will not load. The admin decides to remedy the problem by looking at the style selection page code directly, as the error is most likely here. 
+Consumer-
+6 Consumers have attempted to Log onto HairByBri to Schedule an appointment to have their hair done. 
+User Personas
+1. Teacher (Retwist + Two Strands)
+2. Warehouse Worker (Two Strands)
+3. Cashier (Knotless)
+4. Delivery Driver (Plats)
+5. Receptionist (Stitch Braids)
+6. Dentist (Retwist + Ponytail)
+When they Attempt to select their desired styles, they receive an error message. When they attempt to use the check box to select the style, they receive an error message. The next confirmation page will not load for any users. The next course of action for users in this situation is for them to notify the Shop Owner, Bri about the error message. She manually schedules their appointments to assure they can receive the styles they inquired about.
+Shop Owner-
+Bri, the owner of the Shop has been notified by at least 6 clients, that the style selection function on her site is not working properly. When they attempt to use the checkbox for a specific style, an error message is issued. When they move onto the next page, they are not met with proper confirmation page. To assure she does not lose their business, she will pencil in the six appointments into her calendar manually and apologizes for the inconvenience. Bri will also add a note in her site description that Online booking is currently down, but will be back up and running shortly. Bri creates a help desk ticket for the Administrator and marks it as urgent. The admin contacts her to get a more in depth look at the problem. The admin assures her the issue will be resolved shortly and that Bri will receive correspondence when the issue is resolved. 
